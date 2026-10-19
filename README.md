@@ -18,15 +18,6 @@ npm run build
 npm run preview
 ```
 
-## Deploy to Vercel
-
-1. Push this folder to a GitHub repository, or import the project directly into Vercel.
-2. In Vercel, choose **Add New → Project** and import the repository.
-3. Framework preset: **Vite**.
-4. Build command: `npm run build`.
-5. Output directory: `dist`.
-6. Do not add environment variables; this version has no backend dependencies.
-7. Deploy. Vercel will serve the built app and the included rewrite config supports client-side navigation.
 
 ## Features
 
